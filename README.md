@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadow-7-hub
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C snd C++
+- 🌱 I’m currently learning C and C++
 - 🧑‍💻 I'm a student of computer science 
 
 <!---
